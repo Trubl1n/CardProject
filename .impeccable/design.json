@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-02T11:00:00Z",
+  "title": "Design System: Forma",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Primary",
+        "tonalRamp": [
+          "oklch(15% 0.12 125)",
+          "oklch(26% 0.12 125)",
+          "oklch(37% 0.12 125)",
+          "oklch(48% 0.12 125)",
+          "oklch(59% 0.12 125)",
+          "oklch(70% 0.12 125)",
+          "oklch(82% 0.12 125)",
+          "oklch(95% 0.12 125)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "workspace": {
+        "role": "neutral",
+        "displayName": "Workspace",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "page": {
+        "role": "neutral",
+        "displayName": "Page",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "selection": {
+        "role": "neutral",
+        "displayName": "Selection",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "artboard": {
+        "role": "neutral",
+        "displayName": "Artboard",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      },
+      "artboard-dark": {
+        "role": "neutral",
+        "displayName": "Artboard Dark",
+        "tonalRamp": [
+          "oklch(15% 0.008 110)",
+          "oklch(26% 0.008 110)",
+          "oklch(37% 0.008 110)",
+          "oklch(48% 0.008 110)",
+          "oklch(59% 0.008 110)",
+          "oklch(70% 0.008 110)",
+          "oklch(82% 0.008 110)",
+          "oklch(95% 0.008 110)"
+        ]
+      }
+    },
+    "shadows": [
+      {
+        "name": "artboard",
+        "value": "0 10px 35px #3b442316",
+        "purpose": "Separates artwork from workspace."
+      },
+      {
+        "name": "screenshot",
+        "value": "0 9px 24px #283b1618",
+        "purpose": "Lifts screenshot within the composition."
+      },
+      {
+        "name": "active-tab",
+        "value": "0 2px 4px #252b1a0a",
+        "purpose": "Signals the active segment."
+      },
+      {
+        "name": "toast",
+        "value": "0 8px 30px #0002",
+        "purpose": "Separates transient feedback."
+      }
+    ],
+    "motion": [
+      {
+        "name": "artboard-size",
+        "value": "width .18s, height .18s",
+        "purpose": "Zoom geometry feedback."
+      },
+      {
+        "name": "selection",
+        "value": "outline-color .12s",
+        "purpose": "Block selection feedback."
+      },
+      {
+        "name": "switch",
+        "value": "transform .15s",
+        "purpose": "Switch thumb feedback."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1500px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1150px"
+      },
+      {
+        "name": "inspector-below",
+        "value": "950px"
+      },
+      {
+        "name": "mobile",
+        "value": "600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Export Button",
+      "kind": "button",
+      "description": "Export Button as implemented in the Forma editor.",
+      "html": "<button class=\"ds-export\">↓ &nbsp; Экспорт PNG</button>",
+      "css": ".ds-export{font-family:Manrope,sans-serif;background:#282c26;color:white;border:0;border-radius:7px;padding:12px 15px;font-size:11px;font-weight:600;cursor:pointer}.ds-export:hover{filter:brightness(.96)}.ds-export:focus-visible{outline:2px solid #688938;outline-offset:3px}",
+      "refersTo": "button-primary"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "description": "Secondary Button as implemented in the Forma editor.",
+      "html": "<button class=\"ds-secondary\">Скрыть блок</button>",
+      "css": ".ds-secondary{font-family:Manrope,sans-serif;background:white;border:1px solid #e1e5d8;color:#292b29;border-radius:6px;padding:10px;cursor:pointer}.ds-secondary:hover{filter:brightness(.96)}.ds-secondary:focus-visible{outline:2px solid #688938;outline-offset:3px}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "description": "Text Field as implemented in the Forma editor.",
+      "html": "<label class=\"ds-label\">Название проекта<input class=\"ds-input\" value=\"Untitled UI\"></label>",
+      "css": ".ds-label{font-family:Manrope,sans-serif;font-size:10px;color:#7c8273}.ds-input{display:block;font-family:Manrope,sans-serif;margin-top:8px;background:white;border:1px solid #e4e7dd;border-radius:6px;padding:10px;color:#464e3c}.ds-input:hover{border-color:#c6cdba}.ds-input:focus-visible{outline:2px solid #688938;outline-offset:3px}",
+      "refersTo": "input"
+    },
+    {
+      "name": "Editor Tabs",
+      "kind": "nav",
+      "description": "Editor Tabs as implemented in the Forma editor.",
+      "html": "<nav class=\"ds-tabs\"><button class=\"ds-active\">Шаблоны</button><button>Слои</button></nav>",
+      "css": ".ds-tabs{display:flex;gap:3px;padding:4px;background:#f4f5f1;border-radius:7px}.ds-tabs button{font-family:Manrope,sans-serif;border:0;background:transparent;padding:9px 12px;font-size:11px;color:#83867b;border-radius:5px;cursor:pointer}.ds-tabs .ds-active{background:white;color:#30382a;box-shadow:0 2px 4px #252b1a0a}.ds-tabs button:hover{filter:brightness(.96)}.ds-tabs button:focus-visible{outline:2px solid #688938;outline-offset:3px}",
+      "refersTo": "navigation-active"
+    },
+    {
+      "name": "Design Badge",
+      "kind": "chip",
+      "description": "Design Badge as implemented in the Forma editor.",
+      "html": "<span class=\"ds-badge\">Дизайн</span>",
+      "css": ".ds-badge{font-family:Manrope,sans-serif;display:inline-block;font-size:9px;color:#8b9082;border:1px solid #e5e8dd;padding:3px 7px;border-radius:4px}"
+    },
+    {
+      "name": "Selected Template",
+      "kind": "card",
+      "description": "Selected Template as implemented in the Forma editor.",
+      "html": "<button class=\"ds-template\"><strong>Make something<br>people love.</strong><span>Студия ✓</span></button>",
+      "css": ".ds-template{font-family:Manrope,sans-serif;width:130px;text-align:left;border:2px solid #91ab6e;outline:3px solid #eff4e7;border-radius:6px;background:#eeefe8;padding:12px 10px;color:#292b29;cursor:pointer}.ds-template strong{font-size:12px;line-height:1.15;letter-spacing:-.3px}.ds-template span{display:block;margin-top:40px;font-size:10px}.ds-template:hover{filter:brightness(.96)}.ds-template:focus-visible{outline:2px solid #688938;outline-offset:3px}"
+    },
+    {
+      "name": "Selected Artboard Block",
+      "kind": "custom",
+      "description": "Selected Artboard Block as implemented in the Forma editor.",
+      "html": "<div class=\"ds-block\" tabindex=\"0\"><span class=\"ds-selection\">Название проекта</span>Идеи становятся<br>интерфейсами.<i></i></div>",
+      "css": ".ds-block{font-family:Manrope,sans-serif;position:relative;margin:32px 10px 10px;padding:8px;background:#faffee;color:#272e21;font-size:30px;font-weight:800;line-height:1.14;outline:1.5px solid #83a745;outline-offset:4px;cursor:move}.ds-selection{position:absolute;top:-25px;left:-4px;background:#83a745;color:white;font-size:11px;line-height:20px;font-weight:500;padding:0 7px}.ds-block i{position:absolute;bottom:-7px;right:-7px;width:12px;height:12px;border:2px solid #83a745;background:white}.ds-block:hover{outline-color:#688938}.ds-block:focus-visible{outline:2px solid #688938;outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Working Studio",
+    "overview": "A calm working studio: cream workspace, white tool surfaces and a precise lime accent. Manrope gives the interface a consistent, approachable voice; the editable project title provides the strongest visual statement inside each card. Controls stay compact so the composition remains the center of attention.",
+    "keyCharacteristics": [
+      "Cream workspace and white sidebars",
+      "Manrope throughout the editor",
+      "Lime identity with olive selection feedback",
+      "Dominant project titles and editable positioned blocks"
+    ],
+    "rules": [
+      {
+        "name": "The One Main Accent Rule",
+        "body": "A card has one dominant visual accent; secondary metadata supports it.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do keep project titles visually dominant over descriptions, repository names and star counts.",
+      "Do use the cream workspace to separate the exported card from white editing panels.",
+      "Do keep selection labels, resize handles and safe guides out of exported artwork.",
+      "Do preserve readable screenshot geometry and verify text contrast for each chosen card palette."
+    ],
+    "donts": [
+      "Don't treat the selected card theme as an editor-wide theme.",
+      "Don't replace the editor typeface when changing a card template.",
+      "Don't make repository or star metadata compete with the title.",
+      "Don't imply that illustrative demo content is verified GitHub data."
+    ]
+  }
+}
